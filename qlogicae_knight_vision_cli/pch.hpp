@@ -1,5 +1,7 @@
 #pragma once
 
+#include <CLI/CLI.hpp>
+
 #include <any>
 #include <variant>
 #include <optional>
